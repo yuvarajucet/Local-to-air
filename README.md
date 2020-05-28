@@ -7,7 +7,7 @@ git clone https://github.com/yuvarajucet/Local-to-air.git
 cd Local-to-air
 ```
 ```
-chmod +x Local-to-air.sh
+chmod +x LTA.sh
 ```
 ```
 ./Local-to-air.sh
