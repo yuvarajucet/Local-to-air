@@ -17,9 +17,9 @@ echo "
  ||       ||   || ||      .|' ||   ||        ||    ||   ||     .''''|.   ||   ||   |.  
 .||.....|  '|..|'  '|...' '|..'|' .||.      .||.    '|..|'    .|.  .||. .||. .||.  '|' 
                                                                                        
-
-					Code : yuvi_white_hat
-					Email : publictechnic@gmail.com
+						
+						Created by:
+							@ P_H_Y-Security
 "
 }
 
