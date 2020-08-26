@@ -10,7 +10,7 @@ cd Local-to-air
 chmod +x LTA.sh
 ```
 ```
-./Local-to-air.sh
+./LTA.sh
 ```
 
 ### Requrements:
