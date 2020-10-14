@@ -13,10 +13,12 @@ chmod +x LTA.sh
 ./LTA.sh
 ```
 
-### Requrements:
-<b> 1.ngrok </b><br>
-<b> 2.php </b><br>
-<b> 3.python3 </b><br>
+### Requirements:
+<ul>
+  <li>Ngrok</li>
+  <li>PHP</li>
+  <li>Python3</li>
+</ul>
 
 ## enjoy Your files now on the air
 
